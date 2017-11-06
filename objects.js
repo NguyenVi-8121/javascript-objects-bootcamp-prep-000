@@ -2,7 +2,7 @@ var playlist = {
   'Ke$ha': 'Praying',
   'Kanye': 'Gold Digger'
 };
-function updatePlaylist(){
+function updatePlaylist(playlist, artistName, songTitle){
   playlist.push('Phil Ochs', "Here\'s to the State of Mississippi");
   return updatePlaylist
 }
