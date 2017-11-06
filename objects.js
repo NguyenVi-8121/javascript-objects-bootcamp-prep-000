@@ -4,6 +4,7 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.['Phil Ochs'] = 'Heres to the State of Mississippi';
+  playlist.["Phil Ochs"] = "Heres to the State of Mississippi";
   return updatePlaylist
 }
+function removeFromPlaylist()
