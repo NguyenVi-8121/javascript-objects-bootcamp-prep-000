@@ -3,7 +3,7 @@ var playlist = {
   'Kanye': 'Gold Digger'
 };
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist['Phil Ochs'] = "Here\'s to the State of Mississippi"
+  playlist[artistName] = songTitle
   return playlist
 }
 function removeFromPlaylist(playlist){
