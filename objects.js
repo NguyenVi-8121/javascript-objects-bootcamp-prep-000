@@ -4,7 +4,7 @@ var playlist = {
 };
 function updatePlaylist(playlist){
   playlist.assign ({'Phil Ochs' : "Heres to the State of Mississippi"});
-  return updatePlaylist
+  return playlist
 }
 function removeFromPlaylist(playlist){
   delete playlist.Kanye
