@@ -3,7 +3,7 @@ var playlist = {
   'Kanye': 'Gold Digger'
 };
 function updatePlaylist(){
-  playlist.push('Phil Ochs', "Here\'s to the State of Mississippi")
+  playlist.push('Phil Ochs', "Here\'s to the State of Mississippi");
   return updatePlaylist
 }
 function removeFromPlaylist(playlist){
