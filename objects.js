@@ -7,4 +7,7 @@ function updatePlaylist(playlist, "Phil Ochs", "Heres to the State of Mississipp
   playlist.["Phil Ochs"] = "Heres to the State of Mississippi";
   return updatePlaylist
 }
-function removeFromPlaylist()
+function removeFromPlaylist(playlist, Kanye, Gold Digger){
+  delete playlist.Kanye
+  Return playlist
+}
