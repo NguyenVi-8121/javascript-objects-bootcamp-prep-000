@@ -4,7 +4,7 @@ var playlist = {
 };
 
 
-function removeFromPlaylist(){
+function removeFromPlaylist(playlist){
   delete playlist.Kanye
   return playlist
 }
