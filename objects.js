@@ -3,7 +3,7 @@ var playlist = {
   'Kanye': 'Gold Digger'
 };
 function updatePlaylist(playlist){
-  playlist.assign ({Phil Ochs : Heres to the State of Mississippi});
+  playlist.assign ({'Phil Ochs' : 'Heres to the State of Mississippi'});
   return updatePlaylist
 }
 function removeFromPlaylist(playlist){
