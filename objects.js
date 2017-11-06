@@ -3,7 +3,7 @@ var playlist = {
   Kanye: 'Gold Digger'
 };
 
-function updatePlaylist(playlist, artistName, songTitle){
+function updatePlaylist(playlist, "Phil Ochs", "Heres to the State of Mississippi"){
   playlist.["Phil Ochs"] = "Heres to the State of Mississippi";
   return updatePlaylist
 }
