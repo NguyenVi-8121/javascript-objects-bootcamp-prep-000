@@ -1,5 +1,5 @@
 var playlist = {
-  Ke$ha: 'praying', 
+  Ke$ha: 'praying',
   Kanye: 'Gold Digger'
 };
 
