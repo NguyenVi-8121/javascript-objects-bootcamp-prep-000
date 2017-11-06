@@ -1,1 +1,1 @@
-var playlist = new Object (Ke$ha:praying);
+var playlist = new Object ({Ke$ha:'praying'});
