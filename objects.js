@@ -4,7 +4,7 @@ var playlist = {
 };
 
 
-function removeFromPlaylist(playlist, Kanye, Gold Digger){
+function removeFromPlaylist(){
   delete playlist.Kanye
   return playlist
 }
